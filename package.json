@@ -1,0 +1,29 @@
+{
+  "name": "https-fetch",
+  "version": "1.0.2",
+  "description": "Fetch data from famous websites",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YugoRei/https-fetch.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "api",
+    "https-fetch",
+    "http-fetch"
+  ],
+  "author": "Yugo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YugoRei/https-fetch/issues"
+  },
+  "homepage": "https://github.com/YugoRei/https-fetch#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
